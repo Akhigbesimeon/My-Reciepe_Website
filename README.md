@@ -5,7 +5,11 @@ A delicious world of flavors awaits you! Our recipe website is your ultimate gui
 What You'll Find:
 
 Easy-to-Follow Recipes: Step-by-step instructions for breakfast, lunch, dinner, and everything in between.
-Global Cuisines: Explore diverse flavors from Nigeria’s egusi soup to Italian pasta and beyond.
+
+Global Cuisines: Explore diverse flavors and beyond.
+
 Healthy Options: Wholesome meals that are as nutritious as they are tasty.
+
 Quick Fixes: Perfect for busy days when you need something delicious in a flash.
+
 Trending Delights: Stay ahead with the latest food trends and viral recipes.
