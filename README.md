@@ -1,4 +1,4 @@
-Welcome to My tantalizing Recipe Website!
+ Welcome to My tantalizing Recipe Website!
 
 A delicious world of flavors awaits you! Our recipe website is your ultimate guide to creating mouthwatering dishes that satisfy every craving. Whether you're a kitchen newbie, a seasoned chef, or just looking for quick meal inspiration, we've got you covered.
 
@@ -8,7 +8,7 @@ Browse Categories: Explore dishes from different cuisines and categories.
 Detailed Instructions: View step-by-step instructions, ingredients, and images.
 
 How to Use the Website:
-1. Visit https://www.techiekid.tech/on your web browser.
+1. Visit https://www.techiekid.tech/ on your web browser.
 2. Input the preferred meal name in the search bar.
 3. click on the search button.
 4. If you want to view the full recipe, click on the view recipe.
