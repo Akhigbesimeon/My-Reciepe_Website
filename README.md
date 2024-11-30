@@ -3,9 +3,13 @@
 A delicious world of flavors awaits you! Our recipe website is your ultimate guide to creating mouthwatering dishes that satisfy every craving. Whether you're a kitchen newbie, a seasoned chef, or just looking for quick meal inspiration, we've got you covered.
 
 Features 
+
 Search for Recipes: Quickly find recipes by name or ingredient.
+
 Browse Categories: Explore dishes from different cuisines and categories.
+
 Detailed Instructions: View step-by-step instructions, ingredients, and images.
+
 
 How to Use the Website:
 1. Visit https://www.techiekid.tech/ on your web browser.
