@@ -1,4 +1,4 @@
-Welcome to My tantalizing Website!
+Welcome to My tantalizing Recipe Website!
 
 A delicious world of flavors awaits you! Our recipe website is your ultimate guide to creating mouthwatering dishes that satisfy every craving. Whether you're a kitchen newbie, a seasoned chef, or just looking for quick meal inspiration, we've got you covered.
 
